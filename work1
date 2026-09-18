@@ -1,0 +1,61 @@
+# 1 #check if a numvber is odd or even
+
+# n=int(input("Enter a number:"))
+# if n%2==0:
+#     print("Even number")
+# else:
+#     print("Odd Number")
+
+
+# # 2# find largest of 2 numbers
+
+# a = int(input("Enter a :"))
+# b = int(input("Enter b:"))
+# if a > b:
+#     print(a, " is larger")
+# else:
+#     print(b, " is larger")
+
+# #3 area of a triangle
+
+# len=int(input("Length of the triangle ="))
+# wid=int(input("Breadth of the triangle ="))
+# Area=0.5*len*wid
+# print("Area of the traingle=",Area)
+
+
+# #4 perimeter of a circle
+
+# r = int(input("Radius of the circle="))
+# p = 2*3.14*r
+# print("Perimeter of the circle =", p)
+
+
+# #5 square of a number
+
+# num=int(input("Enter the number:"))
+# sqr=num*num
+# print(" Square of",num,"is",sqr)
+
+# 6 convert dollor to Inr
+
+
+# 7 miles to km
+
+
+# #8  check if a number is positive or negative
+
+# num=int(input("Enter the number:"))
+# if num<0:
+#     print(num,"is negative")
+# else:
+#     print(num,"is positive")
+
+# # 9 check if a number is a multiple of 5
+ 
+# num=int(input("Enter the number:"))
+# if num%5==0:
+#     print(num,"is a multiple of 5")
+# else:
+#     print(num,"is not a multiple of 5")
+
